@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Dictionary/IP.md",
+                "file": "Daily notes/2025-03-11.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "IP"
+              "title": "2025-03-11"
             }
           }
         ]
@@ -168,12 +168,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c93710e254c736a",
+  "active": "78b93c2d793e904c",
   "lastOpenFiles": [
+    "Cybersecurity/Dictionary/IP.md",
+    "Daily notes/2025-03-11.md",
     "Cybersecurity/Certificates/CCNA/CCNA_Certification_Guide_2024_V8 final.pdf",
     "Cybersecurity/Certificates/CCNA/Help links.md",
     "Cybersecurity/Certificates/CCNA/CCNA_Certification_Guide_2024_V8 final.pdf.crdownload",
-    "Cybersecurity/Dictionary/IP.md",
     "Cybersecurity/Certificates/CCNA",
     "Cybersecurity/Certificates",
     "Cybersecurity/Untitled.md",
