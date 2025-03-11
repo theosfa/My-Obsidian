@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2025-03-11.md",
+                "file": "Test my sync.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-03-11"
+              "title": "Test my sync"
             }
           }
         ]
@@ -168,10 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "78b93c2d793e904c",
+  "active": "3c93710e254c736a",
   "lastOpenFiles": [
-    "Cybersecurity/Dictionary/IP.md",
     "Daily notes/2025-03-11.md",
+    "Cybersecurity/Dictionary/IP.md",
     "Cybersecurity/Certificates/CCNA/CCNA_Certification_Guide_2024_V8 final.pdf",
     "Cybersecurity/Certificates/CCNA/Help links.md",
     "Cybersecurity/Certificates/CCNA/CCNA_Certification_Guide_2024_V8 final.pdf.crdownload",
