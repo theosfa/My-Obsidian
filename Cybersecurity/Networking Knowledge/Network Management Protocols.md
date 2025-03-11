@@ -1,0 +1,4 @@
+Network managers require standard policies and procedures to manage and monitor the network for maintaining smooth communication. Network management protocols ensure quick troubleshooting and optimal performance across the network. The following are essential network protocols management:
+
+- **[[SNMP|Simple Network Management Protocol (SNMP)]]:** Helps administrators manage network devices by monitoring endpoint information to proactively track network performance and pinpoint network glitches for quick troubleshooting.
+- **[[ICMP|Internet Control Message Protocol (ICMP)]]:** Helps diagnose network connectivity issues. Network devices employ ICMP for sending error messages, highlighting congestion and timeouts, and transmitting other operational information to assist in network troubleshooting.

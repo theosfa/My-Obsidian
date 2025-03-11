@@ -1,0 +1,5 @@
+These protocols ensure safe data transmission over the network connections. Network security protocols define the procedures to secure data from any unauthorized access. These protocols leverage encryption and cryptography to safeguard. Here are the most widely used network security protocols:
+
+- **[[SFTP|Secure File Transfer Protocol (SFTP)]]**: Helps securely transfer files across a network by using public-key encryption and authenticating the client and server.
+- **[[HTTPS|Hyper-Text Transfer Protocol Secure (HTTPS)]]**: Overcomes the limitation of HTTP by ensuring the security of data transmitted between the browser and server through data encryption. HTTPS is a secure version of HTTP.
+- **[[SSL-TSL|Secure Socket Layer (SSL)]]**: Primarily helps secure internet connections and safeguard sensitive data using encryption. SSL protocol enables both server-client communication and server-server communication.

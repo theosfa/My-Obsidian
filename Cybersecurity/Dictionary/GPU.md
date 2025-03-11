@@ -1,0 +1,3 @@
+The **GPU** does precisely what its name suggests — it processes vast amounts of graphical data. A dedicated graphics card connects with the [[Motherboard]] via an expansion slot, so you can upgrade your graphics card if you want to improve gaming, video, or visual performance from your PC.
+
+Modern GPUs also provide additional computational workload beyond just rendering, making them an extension of the [[CPU]].

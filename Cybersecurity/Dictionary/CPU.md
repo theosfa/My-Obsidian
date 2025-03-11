@@ -1,0 +1,1 @@
+**CPU** stands for central processing unit, and it’s responsible for guiding your computer as it processes data, much like a brain guides a body. The speed at which is does this is known as ‘clock speed’, and is measured in gigahertz (GHz). A CPU advertising a high GHz rating will likely perform faster than others from the same brand and generation.

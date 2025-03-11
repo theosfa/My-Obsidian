@@ -1,0 +1,1 @@
+**Motherboard** is the hub that connects all([[CPU]], [[GPU]], [[RAM]], [[HDD]], [[SSD]]) the other pieces of computer hardware, acting as the brain to allocate and coordinate power across all other components.

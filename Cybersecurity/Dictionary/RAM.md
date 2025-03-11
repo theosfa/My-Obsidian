@@ -1,0 +1,1 @@
+**RAM** or *random access memory* works closely with the [[CPU]] and temporarily stores information created by programs so that it's immediately accessible. It’s sometimes referred to as ‘volatile’ memory because this data gets erased every time your computer restarts.

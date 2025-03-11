@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "2a7dbf8cf328447b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a47503fc1eb780cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c93710e254c736a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity/Dictionary/IP.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "IP"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eeda9ad9b3a55b14",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bb801e497b04be0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78b93c2d793e904c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6b9659d96cb50280",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d0f4f07ff63fd448",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "be405f10e9fb64a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c9722eb8b9449da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1841395a9040809f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily notes/2025-03-06.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-03-06"
+            }
+          },
+          {
+            "id": "c0317d7b0f907840",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "1a569fb9d0dbfc1a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "633543973c36c8ca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3c93710e254c736a",
+  "lastOpenFiles": [
+    "Cybersecurity/Certificates/CCNA/CCNA_Certification_Guide_2024_V8 final.pdf",
+    "Cybersecurity/Certificates/CCNA/Help links.md",
+    "Cybersecurity/Certificates/CCNA/CCNA_Certification_Guide_2024_V8 final.pdf.crdownload",
+    "Cybersecurity/Dictionary/IP.md",
+    "Cybersecurity/Certificates/CCNA",
+    "Cybersecurity/Certificates",
+    "Cybersecurity/Untitled.md",
+    "Cybersecurity/Dictionary/SSL-TSL.md",
+    "Cybersecurity/Networking Knowledge/Networking Knowledge Basics.md",
+    "Cybersecurity/Networking Knowledge/Network Security Protocols.md",
+    "Cybersecurity/Networking Knowledge/Network Protocols.md",
+    "Cybersecurity/Networking Knowledge/Network Management Protocols.md",
+    "Cybersecurity/Networking Knowledge/Network Communication Protocols.md",
+    "Cybersecurity/Networking Knowledge/Common Protocols and their Uses.md",
+    "Cybersecurity/Networking Knowledge/Common Ports and their Uses.md",
+    "Cybersecurity/Networking Knowledge/Basics of NAS and SAN.md",
+    "TLS",
+    "Daily notes/2025-03-09.md",
+    "Untitled.canvas",
+    "Cybersecurity/Dictionary/OSI.md",
+    "Cybersecurity/Dictionary/HDD.md",
+    "Cybersecurity/Dictionary/IR.md",
+    "Cybersecurity/Dictionary/IoT.md",
+    "Daily notes/2025-03-06.md",
+    "Cybersecurity/Networking Knowledge",
+    "Cybersecurity/Dictionary/NAND flash memory.md",
+    "Cybersecurity/Fundamental IT Skills/Computer Hardware Components.md",
+    "Cybersecurity/Dictionary/CPU.md",
+    "Cybersecurity/Fundamental IT Skills/OS-Independent Troubleshooting.md",
+    "Cybersecurity/Dictionary/NFC.md",
+    "Cybersecurity/Fundamental IT Skills/Connection Types and their functions.md",
+    "Cybersecurity/Dictionary/Fiber-optic connections.md",
+    "Cybersecurity/CTFs (Capture the Flag)",
+    "Daily notes",
+    "Cybersecurity/Dictionary",
+    "Cybersecurity/Fundamental IT Skills"
+  ]
+}

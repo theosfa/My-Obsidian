@@ -1,0 +1,1 @@
+**NAND** flash memory is *a type of non-volatile storage technology that does not require power to retain data*. An important goal of NAND flash development has been to reduce the cost per bit and to increase maximum chip capacity so that flash memory can compete with magnetic storage devices, such as [[HDD]].

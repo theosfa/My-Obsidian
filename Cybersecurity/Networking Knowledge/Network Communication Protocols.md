@@ -1,0 +1,9 @@
+These protocols determine the rules and formats to transfer data across networks. Communication protocols govern various aspects of analog and digital communications, such as syntax, authentication, semantics, and error detection, among others. Some key network communication protocols include:
+
+- **[[HTTP|Hyper-Text Transfer Protocol (HTTP)]]**: Commonly referred to as the protocol of the internet that allows communication between a server and browser.
+- **[[TCP|Transmission Control Protocol (TCP)]]**: A reliable, connection-oriented protocol that helps in the sequential transmission of data packets to ensure data reaches the destination on time without duplication.
+- **[[IP|Internet Protocol (IP)]]**: Facilitates routing the data packets across networks. IP contains addressing and control information to deliver packets across a network. It works along with TCP. While it ensures delivering the packets to the right address, TCP aligns them in the right order.
+- **[[UDP|User Datagram Protocol (UDP)]]**: Unlike TCP, UDP is a connectionless protocol that doesn’t ensure a connection between the application and server before transmitting a message. It’s effective for use cases such as broadcasts or multicast connections.
+- **[[FTP|File Transfer Protocol (FTP)]]**: Allows file sharing between servers by establishing two TCP connections, one for data transfer and the other for control. The data transfer connection transfers the actual files while the control connection transfers control information such as passwords to ensure data retrieval in case of data loss.
+
+Helps diagnose network connectivity issues. Network devices employ ICMP for sending error messages, highlighting congestion and timeouts, and transmitting other operational information to assist in network troubleshooting.

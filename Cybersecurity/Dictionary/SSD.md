@@ -1,0 +1,2 @@
+**SSDs** use flash memory to read and write data digitally. Since they don’t have to mechanically seek out data, SSDs deliver nearly instant boot and load times.
+SSD technology operates entirely differently. Using a chip made with [[NAND flash memory]], SSDs don't rely on any moving parts resulting in a more durable component.

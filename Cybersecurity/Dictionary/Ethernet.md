@@ -1,0 +1,1 @@
+**Ethernet** is a wired connection type commonly used in local area networks ([[LAN]]s), providing high-speed, stable, and secure data transfer. Ethernet is ideal for businesses and environments where reliability is crucial, offering speeds from 100 Mbps to several Gbps.

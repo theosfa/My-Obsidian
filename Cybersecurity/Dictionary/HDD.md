@@ -1,0 +1,1 @@
+**Hard drives (HDDs)** are an older technology that work by writing binary data onto spinning magnetic disks, or platters, that rotate at high speeds.

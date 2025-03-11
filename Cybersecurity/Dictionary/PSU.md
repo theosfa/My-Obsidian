@@ -1,0 +1,1 @@
+A **PSU** takes electricity from an external power source or laptop battery and passes it to the [[Motherboard]] to power individual hardware components. this makes it essential to use a power supply with suitable wattage.

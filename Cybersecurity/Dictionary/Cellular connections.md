@@ -1,0 +1,1 @@
+**Cellular connections**, such as *4G* and *5G*, allow mobile devices to connect to the internet via wireless cellular networks. These connections offer mobility, enabling internet access from almost anywhere, but their speeds and reliability can vary depending on network coverage.
