@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test my sync.md",
+                "file": "Cybersecurity/Dictionary/RFC 1918.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Test my sync"
+              "title": "RFC 1918"
+            }
+          },
+          {
+            "id": "ee41b941d3bc6885",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity/Fundamental IT Skills/Computer Hardware Components.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Computer Hardware Components"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,41 +183,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c93710e254c736a",
+  "active": "ee41b941d3bc6885",
   "lastOpenFiles": [
-    "Daily notes/2025-03-11.md",
+    "Cybersecurity/Dictionary/Bus.md",
+    "Cybersecurity/Dictionary/Mesh.md",
+    "Cybersecurity/Dictionary/Ring.md",
+    "Cybersecurity/Dictionary/Star.md",
+    "README.md",
+    "Cybersecurity/Dictionary/NAT.md",
     "Cybersecurity/Dictionary/IP.md",
+    "Cybersecurity/Dictionary/IPAM.md",
+    "Cybersecurity/Dictionary/NTP.md",
+    "Cybersecurity/Dictionary/DHCP.md",
+    "Daily notes/2025-03-11.md",
+    "Cybersecurity/Dictionary/VM.md",
+    "Cybersecurity/Dictionary/SSD.md",
+    "Cybersecurity/Dictionary/HDD.md",
+    "Cybersecurity/Dictionary/ARP.md",
+    "Cybersecurity/Dictionary/DMZ.md",
+    "Cybersecurity/Dictionary/VLAN.md",
+    "Cybersecurity/Dictionary/MAN.md",
+    "Cybersecurity/Dictionary/WLAN.md",
+    "Cybersecurity/Dictionary/Wi-fi.md",
+    "Cybersecurity/Dictionary/LAN.md",
+    "Cybersecurity/Dictionary/WAN.md",
+    "Cybersecurity/Dictionary/VPN.md",
+    "Cybersecurity/Dictionary/RFC 1918.md",
+    "Cybersecurity/Dictionary/DNS.md",
+    "Cybersecurity/Dictionary/SSL-TSL.md",
     "Cybersecurity/Certificates/CCNA/CCNA_Certification_Guide_2024_V8 final.pdf",
-    "Cybersecurity/Certificates/CCNA/Help links.md",
     "Cybersecurity/Certificates/CCNA/CCNA_Certification_Guide_2024_V8 final.pdf.crdownload",
     "Cybersecurity/Certificates/CCNA",
     "Cybersecurity/Certificates",
-    "Cybersecurity/Untitled.md",
-    "Cybersecurity/Dictionary/SSL-TSL.md",
-    "Cybersecurity/Networking Knowledge/Networking Knowledge Basics.md",
-    "Cybersecurity/Networking Knowledge/Network Security Protocols.md",
-    "Cybersecurity/Networking Knowledge/Network Protocols.md",
-    "Cybersecurity/Networking Knowledge/Network Management Protocols.md",
-    "Cybersecurity/Networking Knowledge/Network Communication Protocols.md",
-    "Cybersecurity/Networking Knowledge/Common Protocols and their Uses.md",
-    "Cybersecurity/Networking Knowledge/Common Ports and their Uses.md",
-    "Cybersecurity/Networking Knowledge/Basics of NAS and SAN.md",
     "TLS",
-    "Daily notes/2025-03-09.md",
     "Untitled.canvas",
-    "Cybersecurity/Dictionary/OSI.md",
-    "Cybersecurity/Dictionary/HDD.md",
-    "Cybersecurity/Dictionary/IR.md",
-    "Cybersecurity/Dictionary/IoT.md",
-    "Daily notes/2025-03-06.md",
     "Cybersecurity/Networking Knowledge",
-    "Cybersecurity/Dictionary/NAND flash memory.md",
-    "Cybersecurity/Fundamental IT Skills/Computer Hardware Components.md",
-    "Cybersecurity/Dictionary/CPU.md",
-    "Cybersecurity/Fundamental IT Skills/OS-Independent Troubleshooting.md",
-    "Cybersecurity/Dictionary/NFC.md",
-    "Cybersecurity/Fundamental IT Skills/Connection Types and their functions.md",
-    "Cybersecurity/Dictionary/Fiber-optic connections.md",
     "Cybersecurity/CTFs (Capture the Flag)",
     "Daily notes",
     "Cybersecurity/Dictionary",
