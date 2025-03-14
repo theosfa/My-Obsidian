@@ -16,20 +16,6 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "9560f8dbdd0e99ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test my sync.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Test my sync"
-            }
           }
         ]
       }
@@ -162,10 +148,12 @@
   },
   "active": "43ac8ab92ce0bc19",
   "lastOpenFiles": [
-    "Cybersecurity/Networking Knowledge/Common Protocols and their Uses.md",
-    "HTTPS.md",
-    "Test my sync.md",
+    "run.sh",
     "Daily notes/2025-03-11.md",
+    "Test my sync.md",
+    "HTTPS.md",
+    "Daily notes/2025-03-06.md",
+    "Cybersecurity/Networking Knowledge/Common Protocols and their Uses.md",
     "Cybersecurity/Certificates/CCNA/Help links.md"
   ]
 }
