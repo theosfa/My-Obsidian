@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/HTB/Penetration testing/Pentest process.md",
+                "file": "Python/Tasks/Task-Tracker/Task tracker.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Pentest process"
+              "title": "Task tracker"
             }
           },
           {
@@ -184,8 +184,13 @@
   },
   "active": "3c93710e254c736a",
   "lastOpenFiles": [
-    "Cybersecurity/HTB/Penetration testing/Practice.md",
     "Cybersecurity/HTB/Penetration testing/Pentest process.md",
+    "Python/Tasks/Task-Tracker/Task tracker.md",
+    "Python/Tasks/Task-Tracker/main.py",
+    "Python/Tasks/Task-Tracker",
+    "Python/Tasks",
+    "Python",
+    "Cybersecurity/HTB/Penetration testing/Practice.md",
     "Cybersecurity/HTB/Penetration testing/Post-Engagement.md",
     "Cybersecurity/HTB/Penetration testing/Post-Exploitation.md",
     "Cybersecurity/HTB/Penetration testing/Proof-of-Concept.md",
@@ -211,15 +216,10 @@
     "Cybersecurity/Dictionary/Bus.md",
     "Cybersecurity/Dictionary/Mesh.md",
     "Cybersecurity/Dictionary/Ring.md",
-    "Cybersecurity/Dictionary/Star.md",
     "Cybersecurity/Certificates/CCNA/CCNA_Certification_Guide_2024_V8 final.pdf",
     "Cybersecurity/Certificates/CCNA/CCNA_Certification_Guide_2024_V8 final.pdf.crdownload",
     "Cybersecurity/Certificates/CCNA",
     "Cybersecurity/Certificates",
-    "TLS",
-    "Untitled.canvas",
-    "Cybersecurity/Networking Knowledge",
-    "Cybersecurity/CTFs (Capture the Flag)",
-    "Daily notes"
+    "Untitled.canvas"
   ]
 }
