@@ -1,0 +1,1 @@
+**HTTP (Hypertext Transfer Protocol)** and **[[HTTPS]] (HTTP Secure)** are fundamental protocols for web communication. HTTP is the foundation for data exchange on the World Wide Web, allowing browsers to request resources from web servers. However, HTTP transmits data in plain text, making it vulnerable to eavesdropping and man-in-the-middle attacks.

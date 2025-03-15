@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Dictionary/RFC 1918.md",
+                "file": "Cybersecurity/HTB/Penetration testing/Pentest process.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "RFC 1918"
+              "title": "Pentest process"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Fundamental IT Skills/Computer Hardware Components.md",
-                "mode": "source",
+                "file": "Cybersecurity/Dictionary/IP.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Computer Hardware Components"
+              "title": "IP"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,34 +182,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee41b941d3bc6885",
+  "active": "3c93710e254c736a",
   "lastOpenFiles": [
+    "Cybersecurity/HTB/Penetration testing/Practice.md",
+    "Cybersecurity/HTB/Penetration testing/Pentest process.md",
+    "Cybersecurity/HTB/Penetration testing/Post-Engagement.md",
+    "Cybersecurity/HTB/Penetration testing/Post-Exploitation.md",
+    "Cybersecurity/HTB/Penetration testing/Proof-of-Concept.md",
+    "Cybersecurity/HTB/Penetration testing/Lateral Movement.md",
+    "Cybersecurity/HTB/Penetration testing/Exploitation.md",
+    "Cybersecurity/HTB/Penetration testing/Pre-Engagement.md",
+    "Cybersecurity/HTB/Penetration testing/Vulnerability Assessment.md",
+    "Cybersecurity/HTB/Penetration testing/Information Gathering.md",
+    "Cybersecurity/Dictionary/IP.md",
+    "Cybersecurity/Dictionary/RFC 1918.md",
+    "Cybersecurity/HTB/Refferal.md",
+    "Cybersecurity/HTB/Penetration testing",
+    "Cybersecurity/Dictionary/HTTPS.md",
+    "Cybersecurity/HTB",
+    "Cybersecurity/Untitled.md",
+    "Cybersecurity/Dictionary/HTTP.md",
+    "Cybersecurity/Dictionary/SFTP.md",
+    "Cybersecurity/Dictionary/FTP.md",
+    "Cybersecurity/Dictionary/SSH.md",
+    "Cybersecurity/Dictionary/RDP.md",
+    "Test my sync.md",
+    "Cybersecurity/Fundamental IT Skills/Computer Hardware Components.md",
     "Cybersecurity/Dictionary/Bus.md",
     "Cybersecurity/Dictionary/Mesh.md",
     "Cybersecurity/Dictionary/Ring.md",
     "Cybersecurity/Dictionary/Star.md",
-    "README.md",
-    "Cybersecurity/Dictionary/NAT.md",
-    "Cybersecurity/Dictionary/IP.md",
-    "Cybersecurity/Dictionary/IPAM.md",
-    "Cybersecurity/Dictionary/NTP.md",
-    "Cybersecurity/Dictionary/DHCP.md",
-    "Daily notes/2025-03-11.md",
-    "Cybersecurity/Dictionary/VM.md",
-    "Cybersecurity/Dictionary/SSD.md",
-    "Cybersecurity/Dictionary/HDD.md",
-    "Cybersecurity/Dictionary/ARP.md",
-    "Cybersecurity/Dictionary/DMZ.md",
-    "Cybersecurity/Dictionary/VLAN.md",
-    "Cybersecurity/Dictionary/MAN.md",
-    "Cybersecurity/Dictionary/WLAN.md",
-    "Cybersecurity/Dictionary/Wi-fi.md",
-    "Cybersecurity/Dictionary/LAN.md",
-    "Cybersecurity/Dictionary/WAN.md",
-    "Cybersecurity/Dictionary/VPN.md",
-    "Cybersecurity/Dictionary/RFC 1918.md",
-    "Cybersecurity/Dictionary/DNS.md",
-    "Cybersecurity/Dictionary/SSL-TSL.md",
     "Cybersecurity/Certificates/CCNA/CCNA_Certification_Guide_2024_V8 final.pdf",
     "Cybersecurity/Certificates/CCNA/CCNA_Certification_Guide_2024_V8 final.pdf.crdownload",
     "Cybersecurity/Certificates/CCNA",
@@ -219,8 +220,6 @@
     "Untitled.canvas",
     "Cybersecurity/Networking Knowledge",
     "Cybersecurity/CTFs (Capture the Flag)",
-    "Daily notes",
-    "Cybersecurity/Dictionary",
-    "Cybersecurity/Fundamental IT Skills"
+    "Daily notes"
   ]
 }
