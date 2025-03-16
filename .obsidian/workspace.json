@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Tasks/Task-Tracker/Task tracker.md",
+                "file": "Python/Tasks/Task-Tracker/README.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Task tracker"
+              "title": "README"
             }
           },
           {
@@ -184,9 +184,12 @@
   },
   "active": "3c93710e254c736a",
   "lastOpenFiles": [
+    "Python/Tasks/Task-Tracker/app.py",
+    "Python/Tasks/Task-Tracker/Task tracker.md",
+    "Python/Tasks/Task-Tracker/README.md",
+    "README.md",
     "Python/Tasks/Task-Tracker/venv",
     "Cybersecurity/HTB/Penetration testing/Pentest process.md",
-    "Python/Tasks/Task-Tracker/Task tracker.md",
     "Python/Tasks/Task-Tracker/main.py",
     "Python/Tasks/Task-Tracker",
     "Python/Tasks",
@@ -214,12 +217,9 @@
     "Cybersecurity/Dictionary/RDP.md",
     "Test my sync.md",
     "Cybersecurity/Fundamental IT Skills/Computer Hardware Components.md",
-    "Cybersecurity/Dictionary/Bus.md",
-    "Cybersecurity/Dictionary/Mesh.md",
     "Cybersecurity/Certificates/CCNA/CCNA_Certification_Guide_2024_V8 final.pdf",
     "Cybersecurity/Certificates/CCNA/CCNA_Certification_Guide_2024_V8 final.pdf.crdownload",
     "Cybersecurity/Certificates/CCNA",
-    "Cybersecurity/Certificates",
     "Untitled.canvas"
   ]
 }
