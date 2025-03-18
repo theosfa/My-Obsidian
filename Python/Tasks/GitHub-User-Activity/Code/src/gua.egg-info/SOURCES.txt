@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+src/gua/__init__.py
+src/gua/__main__.py
+src/gua/gua.py
+src/gua/main.py
+src/gua.egg-info/PKG-INFO
+src/gua.egg-info/SOURCES.txt
+src/gua.egg-info/dependency_links.txt
+src/gua.egg-info/entry_points.txt
+src/gua.egg-info/top_level.txt

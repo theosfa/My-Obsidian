@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Tasks/Task-Tracker/README.md",
+                "file": "Python/Tasks/GitHub-User-Activity/GitHub User Activity.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "GitHub User Activity"
             }
           },
           {
@@ -182,18 +182,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c93710e254c736a",
+  "active": "78b93c2d793e904c",
   "lastOpenFiles": [
-    "Python/Tasks/Task-Tracker/app.py",
-    "Python/Tasks/Task-Tracker/Task tracker.md",
+    "Python/Tasks/Task-Tracker/Code/todo.json",
+    "Python/Tasks/Task-Tracker/Code/app.py",
+    "Python/Tasks/Task-Tracker/Code",
+    "Python/Tasks/GitHub-User-Activity/Code/src/gua/__pycache__/printing.cpython-312.pyc",
+    "Python/Tasks/GitHub-User-Activity/Code/src/gua/__pycache__/gua.cpython-312.pyc",
+    "Python/Tasks/GitHub-User-Activity/Code/src/gua/__pycache__/cli.cpython-312.pyc",
+    "Python/Tasks/GitHub-User-Activity/Code/src/gua/__pycache__/__main__.cpython-312.pyc",
+    "Python/Tasks/GitHub-User-Activity/Code/src/gua/__pycache__/__init__.cpython-312.pyc",
+    "Python/Tasks/GitHub-User-Activity/Code/src/gua.egg-info/top_level.txt",
+    "Python/Tasks/GitHub-User-Activity/Code/src/gua.egg-info/entry_points.txt",
+    "Python/Tasks/GitHub-User-Activity/Code/src/gua.egg-info/dependency_links.txt",
+    "Python/Tasks/GitHub-User-Activity/Code/venv/lib/python3.12/site-packages/idna-3.10.dist-info/LICENSE.md",
+    "Python/Tasks/GitHub-User-Activity/venv/lib/python3.12/site-packages/idna-3.10.dist-info/LICENSE.md",
+    "Python/Tasks/GitHub-User-Activity/README.md",
+    "Python/Tasks/GitHub-User-Activity/GitHub User Activity.md",
     "Python/Tasks/Task-Tracker/README.md",
+    "Python/Tasks/Task-Tracker/Task tracker.md",
     "README.md",
-    "Python/Tasks/Task-Tracker/venv",
     "Cybersecurity/HTB/Penetration testing/Pentest process.md",
-    "Python/Tasks/Task-Tracker/main.py",
-    "Python/Tasks/Task-Tracker",
-    "Python/Tasks",
-    "Python",
     "Cybersecurity/HTB/Penetration testing/Practice.md",
     "Cybersecurity/HTB/Penetration testing/Post-Engagement.md",
     "Cybersecurity/HTB/Penetration testing/Post-Exploitation.md",
@@ -206,20 +215,11 @@
     "Cybersecurity/Dictionary/IP.md",
     "Cybersecurity/Dictionary/RFC 1918.md",
     "Cybersecurity/HTB/Refferal.md",
-    "Cybersecurity/HTB/Penetration testing",
     "Cybersecurity/Dictionary/HTTPS.md",
-    "Cybersecurity/HTB",
     "Cybersecurity/Untitled.md",
     "Cybersecurity/Dictionary/HTTP.md",
     "Cybersecurity/Dictionary/SFTP.md",
     "Cybersecurity/Dictionary/FTP.md",
-    "Cybersecurity/Dictionary/SSH.md",
-    "Cybersecurity/Dictionary/RDP.md",
-    "Test my sync.md",
-    "Cybersecurity/Fundamental IT Skills/Computer Hardware Components.md",
-    "Cybersecurity/Certificates/CCNA/CCNA_Certification_Guide_2024_V8 final.pdf",
-    "Cybersecurity/Certificates/CCNA/CCNA_Certification_Guide_2024_V8 final.pdf.crdownload",
-    "Cybersecurity/Certificates/CCNA",
     "Untitled.canvas"
   ]
 }

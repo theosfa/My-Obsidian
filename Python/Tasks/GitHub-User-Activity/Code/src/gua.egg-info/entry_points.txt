@@ -1,0 +1,2 @@
+[console_scripts]
+gua = gua.__main__:gua_entry
